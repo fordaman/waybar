@@ -42,19 +42,18 @@
   "hyprland/workspaces": {
     "disable-scroll": true,
     "all-outputs": false,
-    "format": " {name} {icon}",
+    "format": "{icon}",
     "format-icons": {
       "1": "",
       "2": "",
       "3": "",
       "4": "󰊴",
       "5": "",
-      "6": "󰖟",
-      "7": "󰈙",
-      "8": "",
-      "9": "",
-      "0": "",
-      "active": "",
+      "6": "",
+      "7": "󰖟",
+      "8": "󰈙",
+      "9": "",
+      "10": "",
       "default": ""
     },
     "persistent-workspaces": {
@@ -62,11 +61,9 @@
         1,
         2,
         3,
-        4,
-        5
+        4
       ],
       "DP-2": [
-        6,
         7,
         8,
         9,

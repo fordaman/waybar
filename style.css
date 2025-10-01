@@ -65,8 +65,8 @@ background: rgba(23, 23, 23, 0.0);
 	text-shadow: none;
     border-radius: 9px;
     transition: 0.2s ease;
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
  /*   animation: ws_normal 20s ease-in-out 1; */
 }
 
@@ -74,10 +74,10 @@ background: rgba(23, 23, 23, 0.0);
 
 #workspaces button.active {
   /* background-image: url("/home/anik/Documents/bar1.png");*/
-    color: #A1BDCE;   
+    color: #56B1C7;   
     transition: all 0.3s ease;
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
   /*  transition: all 0.4s cubic-bezier(.55,0.68,.48,1.682); */
 }
 
