@@ -9,14 +9,14 @@
 @import "../omarchy/current/theme/waybar.css";
 
 * {
-    font-family: "JetBrains Mono Nerd Font";
-    /*font-family: "JetBrainsMono Nerd Font";*/
+    font-family: 'JetBrainsMono Nerd Font';
+    font-family: 'JetBrainsMono Nerd Font';
     font-weight: bold; 
     font-size: 15px;
 }
 
 #custom-notification {
-  font-family: "JetBrains Mono Nerd Font";
+  font-family: 'JetBrainsMono Nerd Font';
   font-size: 17px;
  color: #A1BDCE;
  margin: 2px 0px 0px 0px;
@@ -203,7 +203,7 @@ background: @bar-bg;
     color: #A1BDCE;
     font-size: 15px;
     font-weight: 900;
-    font-family: "JetBrains Mono Nerd Font";
+    font-family: 'JetBrainsMono Nerd Font';
     background: rgba(23, 23, 23, 0.0);
     opacity: 1;
     margin: 3px 0px 0px 0px;
@@ -285,7 +285,7 @@ margin: 0px 0px 0px 0px;
 #custom-wbar,
 #window{
 color: #A1BDCE;
-font-family: "Martian Mono";
+font-family: 'JetBrainsMono Nerd Font';
 }
 #custom-l_end,
 #custom-r_end,
